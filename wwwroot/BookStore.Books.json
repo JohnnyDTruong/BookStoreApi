@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65371b71b22b6b3e0eae9795"
+  },
+  "Name": "Design Patterns",
+  "Price": "54.93",
+  "Category": "Computers",
+  "Author": "Ralph Johnson",
+  "JacketMaterial": "Cotton"
+},
+{
+  "_id": {
+    "$oid": "65371b71b22b6b3e0eae9796"
+  },
+  "Name": "Clean Code",
+  "Price": 43.15,
+  "Category": "Computers",
+  "Author": "Robert C. Martin",
+  "JacketMaterial": "Leather"
+},
+{
+  "_id": {
+    "$oid": "65372a4f2add17a8890decec"
+  },
+  "Name": "Data Structures",
+  "Price": 60.54,
+  "Category": "Computers",
+  "Author": "Jonathan Truong",
+  "JacketMaterial": "Gold"
+},
+{
+  "_id": {
+    "$oid": "653a97db184e85ed8e600b04"
+  },
+  "Name": "Systems Analyst",
+  "Price": "42.84",
+  "Category": "Computers",
+  "Author": "Ana Berrelleza",
+  "JacketMaterial": "Steel"
+},
+{
+  "_id": {
+    "$oid": "653df483fd259f71756a571b"
+  },
+  "Name": "System Implementation",
+  "Price": "69.45",
+  "Category": "Technology",
+  "Author": "John Cena",
+  "JacketMaterial": "Alligator Skin"
+},
+{
+  "_id": {
+    "$oid": "653e919f89704729a5feb816"
+  },
+  "Name": "Strategic Management",
+  "Price": "11.5",
+  "Category": "Law",
+  "Author": "Judge Judy",
+  "JacketMaterial": "Cloth"
+}]
